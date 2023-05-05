@@ -1,0 +1,180 @@
+*
+{ 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-size:x-small
+}
+H1
+{
+	font-size:medium
+}
+.OKCancelButton
+{
+	width:80px
+}
+.SmallerFont
+{
+	font-size:xx-small
+}
+.ObjectItem
+{
+	border-color:"white";
+	border-style:solid;
+	border-width:thin;	
+}
+.Grid 
+{
+	background-color:"White";
+	border-color:"#CCCCCC";
+	border-width:1px;
+	border-style:none;
+}
+.GridHeader
+{
+	color: White;  
+	background-color:SteelBlue
+}
+.GridFooter
+{
+	color:"#000066";
+	 background-color:White
+}
+.GridItem
+{
+	color:"#000066";
+}
+.GridSelectedItem
+{
+	color:"White";
+	background-color:"#669999"
+}
+.MenuGroup
+{
+  background-color:#D8D8D8;
+  border:1px;
+  border-style:solid;
+  border-color:#737373;
+}
+.MenuGroupEditLevel
+{
+  border:1px;
+  border-style:solid;
+  border-color:#737373;
+  background-color: lightblue;
+}
+.MenuItem 
+{
+  border:1px;
+  border-style:solid;
+  border-color:#D8D8D8;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+.MenuItemEditLevel 
+{
+  border:1px;
+  border-style:solid;
+  border-color:lightblue;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+.MenuItemOver 
+{
+  background-color:silver; 
+  color:black; 
+  border:1px;
+  border-style:solid;
+  border-color:#ABABAB;
+  border-right-color:#737373;
+  border-bottom-color:#737373;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+
+.SelectedMenuItem 
+{
+  background-color:bisque; 
+  border:1px;
+  border-style:solid;
+  border-color:#B30000;
+  border-left-color:#FF4C4C;
+  border-top-color:#FF4C4C;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+.SelectedMenuItemOver 
+{
+  background-color:#E9CFB1; 
+  color:black; 
+  border:1px;
+  border-style:solid;
+  border-color:#B30000;
+  border-left-color:#FF4C4C;
+  border-top-color:#FF4C4C;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+.ChildSelectedMenuItem
+{
+  background-color:bisque; 
+  border:1px;
+  border-style:solid;
+  border-color:#0000B3;
+  border-left-color:#4C4CFF;
+  border-top-color:#4C4CFF;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+.ChildSelectedMenuItemOver 
+{
+  background-color:#E9CFB1; 
+  color:black; 
+  border:1px;
+  border-style:solid;
+  border-color:#0000B3;
+  border-left-color:#4C4CFF;
+  border-top-color:#4C4CFF;
+  padding:2px;
+  padding-left:5px;
+  padding-right:15px;
+  cursor:hand;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 19:45:14 Aug 10, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:06:21 May 05, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 74.029
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.065
+  cdx.remote: 0.059
+  esindex: 0.011
+  LoadShardBlock: 46.866 (3)
+  PetaboxLoader3.datanode: 114.298 (4)
+  load_resource: 103.991
+  PetaboxLoader3.resolve: 28.325
+*/
